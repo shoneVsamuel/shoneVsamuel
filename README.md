@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **shoneVsamuel/shoneVsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
@@ -21,5 +19,8 @@ Currently working on personal projects and internships in Python, Django, and cl
 [![](https://visitcount.itsvg.in/api?id=shoneVsamuel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->Here are some ideas to get you started:
+
+<!--
+
 
 
