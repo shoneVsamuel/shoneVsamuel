@@ -1,6 +1,4 @@
 ## Hi there 👋
-**shoneVsamuel/shoneVsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Currently working on personal projects and internships in Python, Django, and cloud technologies while preparing for a full-time software development role.Actively building expertise in full-stack development and cloud computing through hands-on projects and open-source contributions.Currently focused on expanding my skills in software development and cloud engineering by working on real-world projects and contributing to open-source.Building scalable applications and experimenting with AI and cloud technologies while preparing for a professional software development career.
 
