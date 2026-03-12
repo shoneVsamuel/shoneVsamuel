@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shoneVsamuel/shoneVsamuel/output/snake.svg" alt="Snake animation" />
+<img src=![snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg) />
 
 ###
 
