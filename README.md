@@ -22,7 +22,11 @@
 
 ###
 
-<p align="center">Hey, I'm Shone 👋<br><br>CS grad who went from building Django backends to designing<br>AI systems with LangChain, RAG, and LLMs because APIs that<br>think are just more fun to build.<br><br>This is my second GitHub account, and the one where I actually<br>show up. Expect projects, experiments, and the occasional<br>over-engineered solution.<br><br>📍 Bengaluru | 🔍 Open to backend & AI/ML roles</p>
+<h2 align="center">Hey, I'm Shone 👋</h2>
+
+###
+
+<p align="center">CS grad who went from building Django backends to designing<br>AI systems with LangChain, RAG, and LLMs because APIs that<br>think are just more fun to build.<br><br>This is my second GitHub account, and the one where I actually<br>show up. Expect projects, experiments, and the occasional<br>over-engineered solution.<br><br>📍 Bengaluru | 🔍 Open to backend & AI/ML roles</p>
 
 ###
 
@@ -67,6 +71,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
+
+###
+
+<h3 align="center">🚀 Things I've Built</h3>
+
+###
+
+<p align="left">🏥 Medical AI Assistant<br><br>- Built an AI-powered medical assistant using Gemini API + RAG pipelines<br>- Reduced diagnostic query response time with context-aware LLM responses<br>- Integrated HuggingFace embeddings for accurate medical document retrieval<br>- REST API backend built with FastAPI production ready architecture<br><br>🎫 Smart Support Ticket System<br><br>- Built an intelligent ticket classifier that auto-routes and responds to support queries<br>- Used LangChain + LLMs to automate 70% of repetitive ticket responses<br>- Designed scalable REST API backend with Django + PostgreSQL<br>- Reduced manual support workload with AI-driven priority detection</p>
 
 ###
 
